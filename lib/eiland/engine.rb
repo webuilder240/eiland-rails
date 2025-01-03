@@ -1,3 +1,4 @@
+require "eiland/helpers"
 require "rails/engine"
 
 module Eiland
