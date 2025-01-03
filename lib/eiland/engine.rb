@@ -1,5 +1,3 @@
-require "eiland/helpers"
-
 module Eiland
   class Engine < ::Rails::Engine
     initializer "eiland_gem.action_controller" do
